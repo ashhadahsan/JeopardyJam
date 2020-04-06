@@ -1,2 +1,0 @@
-Number of Bits in IP v6 is?
-Port number for HTTP?
