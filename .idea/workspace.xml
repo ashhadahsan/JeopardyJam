@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="433b9865-8038-437c-86f0-95c9401ca641" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DCCNProject" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UKxTMI1iQn05caQsEXlGwXF5P1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Compressed/commons-lang3-3.9" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="JServer" />
+      <command value="JClient" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JClient">
+    <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="DCCNProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JClient" />
+      <module name="DCCNProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JServer" />
+      <module name="DCCNProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="DCCNProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timee" />
+      <module name="DCCNProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JClient" />
+        <item itemvalue="Application.JServer" />
+        <item itemvalue="Application.timee" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="433b9865-8038-437c-86f0-95c9401ca641" name="Default Changelist" comment="" />
+      <created>1575119094053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575119094053</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577123397457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1577123397457" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1576355162198">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576355162198" />
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom" timestamp="1576520724394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576520724394" />
+    <state width="1323" height="2" key="GridCell.Tab.0.center" timestamp="1576520724394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576520724394" />
+    <state width="1323" height="2" key="GridCell.Tab.0.left" timestamp="1576520724394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576520724394" />
+    <state width="1323" height="2" key="GridCell.Tab.0.right" timestamp="1576520724394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576520724394" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1576355173196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576355173196" />
+    <state x="175" y="0" width="1134" height="666" key="dock-window-1" timestamp="1576690505917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" width="1134" height="666" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1576690505917" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1576508894945">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1576508894945" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1576513520710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1576513520710" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JClientHandler.java</url>
+          <line>632</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
